@@ -1,1 +1,19 @@
+body {
+    background-color:azure;
+}
 
+#name {
+   font-family: Georgia, 'Times New Roman', Times, serif; 
+   font-size: 24px;
+   text-align: center;
+   color:darkblue;
+   margin-bottom: 20px;
+}
+
+#me {
+    width: 430px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
