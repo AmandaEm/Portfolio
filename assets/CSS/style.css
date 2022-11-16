@@ -1,5 +1,6 @@
 body {
     background-color:azure;
+    font-size: 20px;
 }
 
 #name {
@@ -8,6 +9,7 @@ body {
    text-align: center;
    color:darkblue;
    margin-bottom: 20px;
+   margin-top: 20px;
 }
 
 #me {
@@ -16,6 +18,30 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+}
+
+#about {
+  font-size: 22px;
+  color:darkblue;
+}
+
+#about p {
+
+}
+
+#skills {
+    font-size: 22px;
+    color:darkblue; 
+}
+
+#experience {
+  font-size: 22px;
+  color:darkblue;
+}
+
+#projects {
+  font-size: 22px;
+  color:darkblue;
 }
 
 #nav {
@@ -40,4 +66,13 @@ body {
   
   #nav li a:hover {
     background-color: #111111;
+  }
+
+  #contact {
+  font-size: 22px;
+  color:darkblue;
+  }
+
+  footer {
+  margin-bottom: 100px;
   }
